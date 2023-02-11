@@ -22,6 +22,7 @@
 [chalk](https://www.npmjs.com/package/chalk) É usado para estilizar o formato do texto e a cor nos projetos  node.js
 
 <br>
+
 <br>
 
 
@@ -29,20 +30,26 @@
 
 ![Resultado no console](./img/terminal.png)
 
+<br>
+
 
 ## instruções para uso👇
 
-Instale as dependências
+###### Instale as dependências
 
 ```bash
   npm install readline-sync
+```
+
+```bash
   npm install chalk
 ```
 
-Abra o terminal e digite
+
+###### Abra o terminal e digite
 
 ```bash
-node ./index.js
+node index.js
 ```
 <br>
 <br>
@@ -50,5 +57,7 @@ node ./index.js
 #### Feito por  ❤️
 
 > Juliana Rodrigues Nogueira
+<br>
+
 [![image](https://user-images.githubusercontent.com/114074031/216670787-12d62090-66df-4473-ad0e-fea8d37c6ebb.png)](https://github.com/rodrigues28ju)
 [![image](https://user-images.githubusercontent.com/114074031/216671300-87e02aa5-5b08-4e82-9b78-8391fa891e2d.png)](https://www.linkedin.com/julianarodriguesnogueira)
