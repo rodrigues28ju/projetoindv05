@@ -1,0 +1,16 @@
+{
+  "name": "projetoindv05",
+  "version": "1.0.0",
+  "description": "Projeto resilia individual modulo 5 ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliana Rodrigues Nogueira",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
